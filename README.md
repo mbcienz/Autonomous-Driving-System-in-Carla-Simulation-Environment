@@ -1,6 +1,6 @@
 # CARLA Simulation — Automatic Control L6
 
-This project enables a CARLA simulation for automatic vehicle control along a predefined route, using Docker containers and a web interface to visualize the front camera.
+This project enables a CARLA simulation for automatic vehicle control along a predefined route, using Docker containers and a web interface to visualize the front camera. Refer to Project.pdf for detailed explaination of the entire system.
 
 ---
 
